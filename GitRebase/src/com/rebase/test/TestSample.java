@@ -7,6 +7,7 @@ public class TestSample {
 		System.out.println("hi");
 		System.out.println("Localcommit");
 		System.out.println("master commit");
+		System.out.println("Branch2 commit");
 	}
 
 }

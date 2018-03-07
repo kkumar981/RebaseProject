@@ -6,6 +6,7 @@ public class TestSample {
 		System.out.println("FUTURE BRANCH ");
 		System.out.println("hi");
 		System.out.println("Localcommit");
+		System.out.println("master commit");
 	}
 
 }
